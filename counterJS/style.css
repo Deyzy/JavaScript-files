@@ -1,0 +1,15 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 45px;
+}
+
+body{
+    text-align: center;
+    background-color: #5893A4;
+}
+main{
+    background-color: white;
+    margin: 56px 741px 64px 741px;
+    padding: 23px 24px 34px 20px;
+}
